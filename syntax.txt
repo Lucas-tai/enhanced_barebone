@@ -1,0 +1,10 @@
+incr x = x + 1
+decr x = x - 1
+clear x = set x = 0
+
+if else
+if <criteria> 
+...
+else
+...
+endif
